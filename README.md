@@ -19,8 +19,7 @@
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow)  
 - R (Data Visualization, Statistical Modeling)  
 - SQL (Advanced Queries, Data Cleaning, Joins, Window Functions)  
-- VBA (Macros for Excel Automation)  
-- C++ (Fundamentals)
+- VBA (Macros for Excel Automation)
 
 ### **Data Analytics & Visualization**  
 - Power BI (Dashboard Design, DAX Measures)  
@@ -36,15 +35,14 @@
 - Statistical Analysis (Hypothesis Testing, ANOVA)
 
 ### **Business Analysis & Strategy**  
-- Business Process Optimization (Lean Six Sigma Green Belt)  
+- Business Process Optimization
 - Requirements Gathering and Documentation  
 - Strategic Planning (Sales and Market Analysis)  
 - KPI Design and Monitoring  
 
 ### **Databases & Cloud Platforms**  
-- SQL Server, Oracle  
-- Google BigQuery  
-- AWS (Basics), Azure (Basics)
+- SQL Server, MS SQL,
+- Google BigQuery, Azure Analytics
 
 ### **Project & Stakeholder Management**  
 - Agile & Scrum Methodologies (JIRA, Confluence)  
@@ -53,7 +51,7 @@
 
 ---
 
-## 📂 Featured Projects  
+<!--## 📂 Featured Projects  
 
 ### 📊 **Marketing Campaign Analysis**  
 - Conducted data-driven analysis of a marketing campaign’s performance using Python and Tableau.  
@@ -65,7 +63,7 @@
 
 ### 📈 **Predictive Modeling for Revenue Management**  
 - Developed predictive models in Python to forecast demand, achieving a 95% accuracy rate in validation tests.  
-- Presented actionable insights to leadership to improve pricing strategies and resource allocation.  
+- Presented actionable insights to leadership to improve pricing strategies and resource allocation.  -->
 
 ---
 
@@ -82,4 +80,4 @@ I am driven to bridge the gap between **data science** and **business strategy**
 
 ---
 
-Feel free to reach out to discuss **projects**, **opportunities**, or **collaborations**—let’s make data work for a better tomorrow! 🌟
+Feel free to reach out to discuss , **opportunities**, **projects** or **collaborations** —let’s make data work for a better tomorrow! 🌟
