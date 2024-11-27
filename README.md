@@ -1,19 +1,18 @@
 
- <div align="center">
- # Hi 👋, I am Viraj Dhanusha
-</div>
+# Hi 👋, I am Viraj Dhanusha
+
 
 🎓 Master's Student in Business Analytics | 💻 Data Enthusiast | 📊 Aspiring Business Analyst
 
 ## 🌟 About Me
-- 💼 Seeking opportunities in Data Science, Business Analysis and Analytics
-- 🌱 Currently learning Big Data Analytics, CRM, and Revenue Management
-- 💡 Passionate about combining data science and business strategy to solve real-world problems
+- Seeking opportunities in Data Science, Business Analysis and Analytics
+- Currently learning Big Data Analytics, CRM, and Revenue Management
+- Passionate about combining data science and business strategy to solve real-world problems
 
 ## 🛠️ Skills and Tools
 - **Languages:** Python, R, SQL
 - **Tools:** Tableau, Excel, Power BI, Git
-- **Specialties:** Predictive Modeling, A/B Testing, Data Visualization
+- **Specialties:** Data Analysis, Predictive Modeling, A/B Testing, Data Visualization
 
 <!--## 📂 Featured Projects
 - [📊 Marketing Campaign Analysis](#)
