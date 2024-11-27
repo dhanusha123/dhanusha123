@@ -1,6 +1,6 @@
 # Hi 👋, I’m Viraj Dhanusha  
 
-🎓 **Master’s Student in Business Analytics** | 💻 **Data Enthusiast** | 📊 **Aspiring Data Analyst, Data Scientist, and Business Analyst**  
+🎓 **Master’s Student in Business Analytics** | 💻 **Data Enthusiast** | 📊 **Aspiring Data Professional**  
 
 ---
 
