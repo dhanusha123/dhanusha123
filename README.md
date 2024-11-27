@@ -1,5 +1,8 @@
 
-                                 # Hi 👋, I am Viraj Dhanusha
+ <div align="center">
+ # Hi 👋, I am Viraj Dhanusha
+</div>
+
 🎓 Master's Student in Business Analytics | 💻 Data Enthusiast | 📊 Aspiring Business Analyst
 
 ## 🌟 About Me
@@ -12,10 +15,10 @@
 - **Tools:** Tableau, Excel, Power BI, Git
 - **Specialties:** Predictive Modeling, A/B Testing, Data Visualization
 
-## 📂 Featured Projects
+<!--## 📂 Featured Projects
 - [📊 Marketing Campaign Analysis](#)
 - [🔍 Big Data Processing](#)
-- [📈 Retail Sales Prediction](#)
+- [📈 Retail Sales Prediction](#) -->
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/viraj-dhanusha/)
