@@ -1,9 +1,9 @@
 
-# Hi 👋, I am Viraj Dhanusha
+                                 # Hi 👋, I am Viraj Dhanusha
 🎓 Master's Student in Business Analytics | 💻 Data Enthusiast | 📊 Aspiring Business Analyst
 
 ## 🌟 About Me
-- 💼 Seeking opportunities in Business Analysis, Data Science, and Analytics
+- 💼 Seeking opportunities in Data Science, Business Analysis and Analytics
 - 🌱 Currently learning Big Data Analytics, CRM, and Revenue Management
 - 💡 Passionate about combining data science and business strategy to solve real-world problems
 
