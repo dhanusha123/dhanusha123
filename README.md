@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me  
-- 🚀 Actively seeking opportunities in **Data Analysis**, **Business Analytics**, and **Data Science** to solve impactful problems.  
+- 🚀 Actively seeking opportunities in **Data Analytics**, **Business Analytics**, and **Data Science** to solve impactful problems.  
 - 📖 Currently mastering **Big Data Analytics**, **Customer Relationship Management (CRM)**, and **Revenue Management** as part of my master’s coursework.  
 - 💡 Passionate about combining **data-driven insights** and **business strategy** to influence decision-making and drive growth.  
 - 🌍 Experienced in **data migration**, **ETL processes**, and **ERP systems**, bringing 6+ years of professional expertise to data-related challenges.  
