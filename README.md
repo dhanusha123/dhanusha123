@@ -16,13 +16,13 @@
 ## 🛠️ Skills and Tools  
 
 ### **Languages**  
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow), R (Data Visualization, Statistical Modeling), SQL (Advanced Queries, Data Cleaning, Joins, Window Functions), VBA (Macros for Excel Automation)
+- **Python** (Pandas, NumPy, Scikit-learn, TensorFlow), **R** (Data Visualization, Statistical Modeling), **SQL** (Advanced Queries, Data Cleaning, Joins, Window Functions), **VBA** (Macros for Excel Automation)
 
 ### **Data Analytics & Visualization**  
-- Power BI (Dashboard Design, DAX Measures), Tableau (Interactive Dashboards, Visual Analytics), Excel (Advanced Formulas, Pivot Tables, Power Query), Matplotlib, Seaborn (Data Visualization in Python)
+- **Power BI** (Dashboard Design, DAX Measures), **Tableau** (Interactive Dashboards, Visual Analytics), **Excel** (Advanced Formulas, Pivot Tables, Power Query), **Matplotlib**, **Seaborn** (Data Visualization in Python)
 
 ### **Data Science**  
-- Machine Learning (Regression, Classification, Clustering), Predictive Modeling (Time Series Analysis, Anomaly Detection), A/B Testing (Design and Implementation), Data Cleaning & Preprocessing (ETL Processes), Statistical Analysis (Hypothesis Testing, ANOVA)
+- **Machine Learning** (Regression, Classification, Clustering), **Predictive Modeling** (Time Series Analysis, Anomaly Detection), **A/B Testing** (Design and Implementation), **Data Cleaning & Preprocessing** (ETL Processes), **Statistical Analysis** (Hypothesis Testing, ANOVA)
 
 ### **Business Analysis & Strategy**  
 - Business Process Optimization, Requirements Gathering and Documentation, Strategic Planning (Sales and Market Analysis), KPI Design and Monitoring  
