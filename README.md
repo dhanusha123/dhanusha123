@@ -9,7 +9,7 @@
 - 🌍 Experienced in **Data Analysis**, **Product Analysis and Pricing Strategies**, and **Software as a Service**, bringing 6+ years of professional expertise to data-related challenges.
 - 🤝 Proficient in stakeholder management, cross-functional collaboration, and delivering data-centric solutions that meet business goals.
 - 💡 Passionate about combining **data-driven insights** and **business strategy** to influence decision-making and drive growth.  
-- 📖 Currently mastering **Data Science for Business Decision Making***, **Digital Marketing & Social Media Analytics**,**Quantitative Methods in Business** and **Project Management** as part of my master’s coursework.  
+- 📖 Currently mastering **Data Science for Business Decision Making**, **Digital Marketing & Social Media Analytics**,**Quantitative Methods in Business** and **Project Management** as part of my master’s coursework.  
 
 ---
 
