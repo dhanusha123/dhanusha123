@@ -71,7 +71,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/viraj-dhanusha/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/dhanusha123)  
-**Medium Profile**: [Check out my articles on Medium](https://medium.com/@viraj-dhanusha)
+**Medium Profile**: [Check out my articles on Medium](https://medium.com/@dhanusha.viraj)
  
 
 ---
