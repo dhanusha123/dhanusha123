@@ -5,49 +5,33 @@
 ---
 
 ## 🌟 About Me  
-- 🚀 Actively seeking opportunities in **Data Analytics**, **Business Analytics**, and **Data Science** to solve impactful problems.  
-- 📖 Currently mastering **Big Data Analytics**, **Customer Relationship Management (CRM)**, and **Revenue Management** as part of my master’s coursework.  
-- 💡 Passionate about combining **data-driven insights** and **business strategy** to influence decision-making and drive growth.  
-- 🌍 Experienced in **data migration**, **ETL processes**, and **ERP systems**, bringing 6+ years of professional expertise to data-related challenges.  
+- 🚀 Actively seeking opportunities in **Data Analytics**, **Business Analytics**, and **Data Science** to solve impactful problems.
+- 🌍 Experienced in **Data Analysis**, **Product Analysis and Pricing Strategies**, and **Software as a Service**, bringing 6+ years of professional expertise to data-related challenges.
 - 🤝 Proficient in stakeholder management, cross-functional collaboration, and delivering data-centric solutions that meet business goals.
+- 💡 Passionate about combining **data-driven insights** and **business strategy** to influence decision-making and drive growth.  
+- 📖 Currently mastering **Data Science for Business Decision Making***, **Digital Marketing & Social Media Analytics**,**Quantitative Methods in Business** and **Project Management** as part of my master’s coursework.  
 
 ---
 
 ## 🛠️ Skills and Tools  
 
 ### **Languages**  
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow)  
-- R (Data Visualization, Statistical Modeling)  
-- SQL (Advanced Queries, Data Cleaning, Joins, Window Functions)  
-- VBA (Macros for Excel Automation)
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow), R (Data Visualization, Statistical Modeling), SQL (Advanced Queries, Data Cleaning, Joins, Window Functions), VBA (Macros for Excel Automation)
 
 ### **Data Analytics & Visualization**  
-- Power BI (Dashboard Design, DAX Measures)  
-- Tableau (Interactive Dashboards, Visual Analytics)  
-- Excel (Advanced Formulas, Pivot Tables, Power Query)  
-- Matplotlib, Seaborn (Data Visualization in Python)
+- Power BI (Dashboard Design, DAX Measures), Tableau (Interactive Dashboards, Visual Analytics), Excel (Advanced Formulas, Pivot Tables, Power Query), Matplotlib, Seaborn (Data Visualization in Python)
 
 ### **Data Science**  
-- Machine Learning (Regression, Classification, Clustering)  
-- Predictive Modeling (Time Series Analysis, Anomaly Detection)  
-- A/B Testing (Design and Implementation)  
-- Data Cleaning & Preprocessing (ETL Processes)  
-- Statistical Analysis (Hypothesis Testing, ANOVA)
+- Machine Learning (Regression, Classification, Clustering), Predictive Modeling (Time Series Analysis, Anomaly Detection), A/B Testing (Design and Implementation), Data Cleaning & Preprocessing (ETL Processes), Statistical Analysis (Hypothesis Testing, ANOVA)
 
 ### **Business Analysis & Strategy**  
-- Business Process Optimization
-- Requirements Gathering and Documentation  
-- Strategic Planning (Sales and Market Analysis)  
-- KPI Design and Monitoring  
+- Business Process Optimization, Requirements Gathering and Documentation, Strategic Planning (Sales and Market Analysis), KPI Design and Monitoring  
 
 ### **Databases & Cloud Platforms**  
-- SQL Server, MS SQL,
-- Google BigQuery, Azure Analytics
+- SQL Server, MS SQL,Google BigQuery, Azure Analytics
 
 ### **Project & Stakeholder Management**  
-- Agile & Scrum Methodologies (JIRA, Confluence)  
-- Executive Presentation Skills (Storytelling with Data)  
-- Cross-Functional Team Collaboration  
+- Agile & Scrum Methodologies (JIRA, Confluence), Executive Presentation Skills (Storytelling with Data), Cross-Functional Team Collaboration  
 
 ---
 
