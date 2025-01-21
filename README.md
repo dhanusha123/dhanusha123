@@ -1,6 +1,6 @@
 # Hi 👋, I’m Viraj Dhanusha  
 
-🎓 **Master’s Student in Business Analytics** | **BSc in Applied Statistics** | 💻 **Data Enthusiast** | 📊 **Aspiring Data Professional**  
+🎓 **MSc in Business Analytics** | **BSc in Applied Statistics** | 💻 **Data Enthusiast** | 📊 **Aspiring Data Professional**  
 
 ---
 
